@@ -1,0 +1,80 @@
+m255
+K3
+13
+cModel Technology
+dC:\altera\13.1
+Ealu
+Z0 w1727264005
+Z1 DPx4 ieee 11 numeric_std 0 22 O3PF8EB`?j9=z7KT`fn941
+Z2 DPx3 std 6 textio 0 22 5>J:;AW>W0[[dW0I6EN1Q0
+Z3 DPx4 ieee 14 std_logic_1164 0 22 5=aWaoGZSMWIcH0i^f`XF1
+Z4 dC:\Users\20098730\Desktop\modelsim
+Z5 8C:/Users/20098730/Desktop/modelsim/ALU_source.vhd
+Z6 FC:/Users/20098730/Desktop/modelsim/ALU_source.vhd
+l0
+L6
+VoZh_RHSzRG>8fBd53W1i^0
+Z7 OV;C;10.1d;51
+32
+Z8 !s108 1727264005.889000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/20098730/Desktop/modelsim/ALU_source.vhd|
+Z10 !s107 C:/Users/20098730/Desktop/modelsim/ALU_source.vhd|
+Z11 o-work work -2002 -explicit -O0
+Z12 tExplicit 1
+!s100 do973BZn968DV6P5ki0hh1
+!i10b 1
+Abehavioral
+R1
+R2
+R3
+Z13 DEx4 work 3 alu 0 22 oZh_RHSzRG>8fBd53W1i^0
+l15
+L14
+V]Aa<T]9OV16i5_K126e:Q0
+R7
+32
+R8
+R9
+R10
+R11
+R12
+!s100 G[7k8:g>VjoHQ5dSbo]mb0
+!i10b 1
+Ealu_tb
+Z14 w1727266057
+R1
+R2
+R3
+R4
+Z15 8C:/Users/20098730/Desktop/modelsim/ALU_TB.vhd
+Z16 FC:/Users/20098730/Desktop/modelsim/ALU_TB.vhd
+l0
+L6
+V6_0Z:ag3KLaX>eb5n;SKa0
+!s100 01b^@GXISA=EQQz1^Xo6_1
+R7
+32
+!i10b 1
+Z17 !s108 1727266057.430000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|C:/Users/20098730/Desktop/modelsim/ALU_TB.vhd|
+Z19 !s107 C:/Users/20098730/Desktop/modelsim/ALU_TB.vhd|
+R11
+R12
+Abehavior
+R13
+R1
+R2
+R3
+Z20 DEx4 work 6 alu_tb 0 22 6_0Z:ag3KLaX>eb5n;SKa0
+l15
+L9
+V^PJSi6W;_c2ag5dk49gDi1
+!s100 Ljf=H]UgmlO5RMnQng1JG3
+R7
+32
+!i10b 1
+R17
+R18
+R19
+R11
+R12
